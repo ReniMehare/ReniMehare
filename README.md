@@ -11,11 +11,11 @@
 
 ## Education:
 
-1. [Politeknik Negeri Nusa Utara] | Sistem Informasi | Manganitu '2021-Sekarang'
-2. [SMK N 1 Tabukan Tengah] | Akuntansi dan Keuangan Lembaga | Bungalawang '2018-2021'
-3. [SMP N Talengen] | Talengen '2015-2018'
-4. [SDN Inpres Malueng] | Malueng '2012-2015'
-5. [SDN Biru] | Biru '2009-2012'
+- 2021-Sekarang | POLITEKNIK NEGERI NUSA UTARA | Sistem Informasi | Manganitu
+- 2018-2021 | SMK N 1 Tabukan Tengah | Akuntansi | Kampung Bungalawang TabTeng
+- 2015-2018 | SMP N Talengen | Talengen TabTeng
+- 2012-2018 | SDN Inpres Malueng | Kampung Malueng TabTeng
+- 2009-2012 | SDN Biru | Kampung Biru Tabteng
 
 
 <br />
