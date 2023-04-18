@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hy There, I'm reni
 
-<!--
-**ReniMehare/ReniMehare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
+- Nama             : Reni Mehare
+- Alamat           : Kampung Malueng
+- Tempat,tgl Lahir : Malueng,21 Oktober 2002
+- Jenis Kelamin    : Perempuan
+- Status           : Mahasiswa
+- Email            : renimhre21@gmail.com
+- Nomor Hp         : 08229617xxxx
 
-Here are some ideas to get you started:
+## Education:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1. [Politeknik Negeri Nusa Utara] | Sistem Informasi | Manganitu '2021-Sekarang'
+
+### 2. [SMK N 1 Tabukan Tengah] | Bungalawang '2018-2021'
+
+
+<br />
+<br />
